@@ -1,0 +1,8 @@
+[package]
+name = "optimal-transport-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Optimal transport theory for agent systems — Sinkhorn algorithm, Wasserstein distances, barycenters, and JKO gradient flows"
+license = "MIT"
+
+[dependencies]
